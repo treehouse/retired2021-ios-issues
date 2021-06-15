@@ -1,3 +1,10 @@
+This was renamed in 2021.
+
+The reasons are tracked in this ticket:
+https://teamtreehouse.atlassian.net/browse/IN-1530
+
+----
+
 Treehouse iOS Beta Issues
 ==========
 
